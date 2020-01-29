@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.js": "/static/js/main.b387474e.chunk.js",
-    "main.js.map": "/static/js/main.b387474e.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.1c45d882.js",
-    "runtime-main.js.map": "/static/js/runtime-main.1c45d882.js.map",
-    "static/js/2.2e8661b5.chunk.js": "/static/js/2.2e8661b5.chunk.js",
-    "static/js/2.2e8661b5.chunk.js.map": "/static/js/2.2e8661b5.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.474fc2353b7a07b6e26ad909768c5591.js": "/precache-manifest.474fc2353b7a07b6e26ad909768c5591.js",
-    "service-worker.js": "/service-worker.js",
-    "static/js/2.2e8661b5.chunk.js.LICENSE": "/static/js/2.2e8661b5.chunk.js.LICENSE"
+    "main.js": "/redux-calculator/static/js/main.b387474e.chunk.js",
+    "main.js.map": "/redux-calculator/static/js/main.b387474e.chunk.js.map",
+    "runtime-main.js": "/redux-calculator/static/js/runtime-main.c6e6b7d9.js",
+    "runtime-main.js.map": "/redux-calculator/static/js/runtime-main.c6e6b7d9.js.map",
+    "static/js/2.2e8661b5.chunk.js": "/redux-calculator/static/js/2.2e8661b5.chunk.js",
+    "static/js/2.2e8661b5.chunk.js.map": "/redux-calculator/static/js/2.2e8661b5.chunk.js.map",
+    "index.html": "/redux-calculator/index.html",
+    "precache-manifest.5cda5f7ea1e537a69d299e98387e7228.js": "/redux-calculator/precache-manifest.5cda5f7ea1e537a69d299e98387e7228.js",
+    "service-worker.js": "/redux-calculator/service-worker.js",
+    "static/js/2.2e8661b5.chunk.js.LICENSE": "/redux-calculator/static/js/2.2e8661b5.chunk.js.LICENSE"
   },
   "entrypoints": [
-    "static/js/runtime-main.1c45d882.js",
+    "static/js/runtime-main.c6e6b7d9.js",
     "static/js/2.2e8661b5.chunk.js",
     "static/js/main.b387474e.chunk.js"
   ]
